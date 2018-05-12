@@ -17,6 +17,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Cyriel_Buysse
     - http://en.wikipedia.org/wiki/Cyriel_Buysse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27490#De-vroolijke-tocht
 gutenberg_issued: '2008-12-10'
 gutenberg_type: Text
 identifiers:
